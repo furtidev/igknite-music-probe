@@ -14,7 +14,6 @@ from datetime import datetime
 import core
 import disnake
 from core.embeds import TypicalEmbed
-from disnake import Option, OptionType
 from disnake.ext import commands
 
 
